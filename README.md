@@ -1,2 +1,4 @@
-# live-search-rag-ai-agent
-Hybrid AI Agent with Live Web Search + Custom Knowledge Base (RAG + Next.js + LangChain + Pinecone)
+# Live Search RAG AI Agent 🚀
+
+Hybrid AI Agent with Real-Time Web Search + Custom Knowledge Base.  
+Built with Next.js, LangChain, Pinecone DB, Tailwind, and Tabilli.  
